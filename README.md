@@ -1,4 +1,4 @@
-# hops
+# vue_shop
 
 ## Project setup
 ```
